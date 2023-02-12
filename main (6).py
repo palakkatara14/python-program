@@ -1,0 +1,4 @@
+number = int(input('enter number'))
+arr = ['negative','positive']
+out = arr[number>0]
+print(out)
