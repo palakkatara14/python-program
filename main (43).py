@@ -1,0 +1,6 @@
+L = int(input('enter number'))
+B = int(input('enetr number'))
+l = int(input('enter number'))
+b = int(input('enter number'))
+out = ((L*B)//(l*b)) + bool((L*B)%(l*b))
+print(out)

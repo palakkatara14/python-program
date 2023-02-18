@@ -1,0 +1,6 @@
+LF = int(input('enter number'))
+BF = int(input('enetr number'))
+lt = int(input('enter number'))
+bt = int(input('enter number'))
+out = -(-LF*BF//lt*bt)
+print(out)
