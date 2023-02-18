@@ -1,0 +1,7 @@
+x = (input("enter number"))
+if x  >= 'a'and x  <= 'b' or x >= 'A'and x <= 'Z':
+    print("alphabet")
+elif x >= '48' and x <= '57':
+    print("digit")
+else:
+    print("special character")

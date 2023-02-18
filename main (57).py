@@ -1,0 +1,4 @@
+a = int(input("enter number"))
+b = int(input("enter number"))
+c = int(input("enter number"))
+print("a is greatest" if a>b and a>c else "b is greatest" if b>a and b>c else "c is greatest")
