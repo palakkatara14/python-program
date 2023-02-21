@@ -1,0 +1,2 @@
+ch = input("enter character")
+print(ord(ch))
