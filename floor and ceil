@@ -1,0 +1,4 @@
+import math 
+n = float(input())
+print("%0.6f"%math.floor(n))
+print("%0.6f"%math.ceil(n))
