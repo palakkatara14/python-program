@@ -1,0 +1,7 @@
+n = int(input("enter number"))
+d1 = int(input("enter number"))
+d2 = int(input("enter number"))
+if n%d1==0 and n%d2==0:
+    print("yes")
+else:
+    print("no")
