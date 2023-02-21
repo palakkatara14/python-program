@@ -1,4 +1,4 @@
-salary =  int(input("enter basic salary"))
+salary =  float(input("enter basic salary"))
 if salary<=10000:
     gross = (20/100)*10000+(80/100)*10000+10000
     
