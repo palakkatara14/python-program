@@ -1,0 +1,6 @@
+str = input()
+sepe = input()
+splitcoll = str.split() 
+jstr = sepe.join(splitcoll)
+print(splitcoll)
+print(jstr)
